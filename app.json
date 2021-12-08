@@ -1,0 +1,54 @@
+{
+
+
+
+    "name": "javaport-fight",
+
+
+
+    "description": "javaport-fight",
+
+
+
+    "logo":"https://telegra.ph/file/53154126497c9efee453b.jpg",
+
+
+
+    "keywords": ["xray"],
+
+
+
+    "env": {
+
+
+
+        "UUID": {
+
+
+
+            "description": "Xray UUID,You can generate new UUID using this website (https://github.com/gootu55e/) ",
+
+
+
+            "required": true        
+
+
+
+        }
+
+
+
+    },
+
+
+
+    "repository": "https://github.com/gootu55e/javaport-fight",
+
+
+
+    "stack": "container"
+
+
+
+}
+
