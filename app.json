@@ -1,11 +1,11 @@
 {
     "name": "javaport-fight",
     "description": "fire",
-    "logo":"https://telegra.ph/file/53154126497c9efee453b.jpg",
-    "keywords": ["xray"],
+    "logo":"https://avatars.githubusercontent.com/u/95766787?s=400&u=572821281b6cb78c4637cf2b58a78092d7784427&v=4",
+    "keywords": ["ra"],
     "env": {
         "UUID": {
-            "description": "Xray UUID,You can generate new UUID using this website (https://github.com/gootu55e/) ",
+            "description": "UUID,You can generate new UUID using this website (https://github.com/gootu55e/) ",
             "required": true        
         }
     },
